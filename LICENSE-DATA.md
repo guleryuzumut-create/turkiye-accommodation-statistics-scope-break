@@ -1,0 +1,3 @@
+The derived datasets in `data/derived/` and the figures in `figures/` are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode
+
+The derived data are computed from publications of the Ministry of Culture and Tourism of Türkiye, the Turkey Tourism Promotion and Development Agency and the Directorate General of Development Agencies; the original publications are not redistributed and remain subject to their own terms. Map boundaries derive from geoBoundaries and OpenStreetMap and are subject to the Open Database License (ODbL).

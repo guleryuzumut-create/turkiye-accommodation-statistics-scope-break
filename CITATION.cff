@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Replication data and code for: Who Disappears from Official Tourism Statistics? A Licensing Reform, Scope Breaks and the Geography of Missing Accommodation Data in Türkiye"
+type: dataset
+authors:
+  - family-names: "Güleryüz"
+    given-names: "Umut"
+    affiliation: "Bitlis Eren University"
+    orcid: "https://orcid.org/0000-0002-2337-3577"
+date-released: "2026-10-05"
+license: CC-BY-4.0
+keywords:
+  - accommodation statistics
+  - tourism statistics
+  - statistical visibility
+  - licensing reform
+  - Türkiye

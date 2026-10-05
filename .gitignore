@@ -1,0 +1,4 @@
+output/
+data/raw/*
+!data/raw/il_bolge.csv
+__pycache__/

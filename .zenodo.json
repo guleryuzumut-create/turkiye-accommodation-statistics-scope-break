@@ -1,0 +1,24 @@
+{
+  "title": "Replication data and code for: Who Disappears from Official Tourism Statistics? A Licensing Reform, Scope Breaks and the Geography of Missing Accommodation Data in Türkiye",
+  "upload_type": "dataset",
+  "description": "<p>Replication data and code for an article on how Türkiye's 2021–2023 accommodation licensing reform changed the coverage of official accommodation statistics. The package contains derived district-level (852 districts, 2015–2026) and province-level datasets, the Python code that produces all tables and figures, and instructions for obtaining the original sources, which are not redistributed because of their terms of use.</p>",
+  "creators": [
+    {
+      "name": "Güleryüz, Umut",
+      "affiliation": "Bitlis Eren University",
+      "orcid": "0000-0002-2337-3577"
+    }
+  ],
+  "keywords": [
+    "accommodation statistics",
+    "tourism statistics",
+    "statistical visibility",
+    "licensing reform",
+    "structural break",
+    "Türkiye"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Code is released under the MIT License (see LICENSE). Original Ministry of Culture and Tourism files are not included; see README.md."
+}
